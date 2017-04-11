@@ -1,0 +1,8 @@
+prefix=/home/dawg/catkin_ws/devel
+
+Name: intro_to_ros
+Description: Description of intro_to_ros
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/dawg/catkin_ws/devel/lib 
+Requires: 

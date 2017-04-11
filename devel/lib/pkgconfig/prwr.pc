@@ -1,0 +1,8 @@
+prefix=/home/dawg/catkin_ws/devel
+
+Name: prwr
+Description: Description of prwr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dawg/catkin_ws/devel/lib 
+Requires: 
